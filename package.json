@@ -21,9 +21,13 @@
     "gatsby-plugin-sharp": "^4.22.0",
     "gatsby-plugin-styled-components": "^5.22.0",
     "gatsby-source-filesystem": "^4.22.0",
+    "gatsby-transformer-json": "^4.22.0",
     "gatsby-transformer-sharp": "^4.22.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
   }
 }
