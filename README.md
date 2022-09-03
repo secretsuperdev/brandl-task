@@ -2,16 +2,16 @@
 
 #### This is the Gatsby Coding Assessment.
 
-1.  **🚀 Setup Project.**
+1.  ### 🚀 Setup Project.###
 
-***Pre-Requirements.***
-    Node.js
-    NPM
-    Gatsby CLI
-***Install and Run Server***
+#### Pre-Requirements. ####
+    ***Desktop.***
+    ***NPM***
+    ***Gatsby CLI***
+#### Install and Run Server ####
     Move to the `root` directory and run `npm install`, then `gatsby run develop`
 
-2.  **You should See Below UIs**
+2.  ### You should See Below UIs ###
     
 ***Desktop.***
 <p align="center">
